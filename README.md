@@ -1,4 +1,4 @@
-![Untitled design](https://github.com/SUAVEVAUS/SUAVEVAUS/assets/142802751/35c47797-15a2-4095-91e6-b7c27465ccd6)
+![Untitled design](https://github.com/SUAVEVAUS/SUAVEVAUS/blob/main/ezgif.com-resize.gif)
 - 🔭 I’m currently working on **c,c++**
 - 📫 How to reach me **suave.prajapati@gmai.com**
 - ⚡ Fun fact **I'm Batman**
