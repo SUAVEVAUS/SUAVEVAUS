@@ -1,4 +1,4 @@
-<p>Hi I'm Suave👋</P>
+<h1>Hi I'm Suave👋</h1>
 ![Untitled design](https://github.com/SUAVEVAUS/SUAVEVAUS/blob/main/ezgif.com-resize.gif)
 - 🔭 I’m currently working on **c,c++**
 - 📫 How to reach me **suave.prajapati@gmai.com**
