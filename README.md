@@ -18,4 +18,4 @@
 
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=SUAVEVAUS"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUAVEVAUS&layout=compact)](https://github.com/SUAVEVAUS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUAVEVAUS&layout=compact)](https://github.com/SUAVEVAUS/github-readme-stats&layout=compact)
