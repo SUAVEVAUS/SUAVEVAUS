@@ -1,4 +1,4 @@
-<h1>Hi I'm Suave👋</h1>
+<h1 aligh="center">Hi I'm Suave👋</h1>
 
 ![Untitled design](https://github.com/SUAVEVAUS/SUAVEVAUS/blob/main/ezgif.com-resize.gif)
 - 🔭 I’m currently working on **c,c++**
