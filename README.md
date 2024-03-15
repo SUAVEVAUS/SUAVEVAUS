@@ -1,7 +1,7 @@
 <h1 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi I'm Suave👋</h1>
 
 ![Untitled design](https://github.com/SUAVEVAUS/SUAVEVAUS/blob/main/ezgif.com-resize.gif)
-- 🔭 I’m currently working on **c,c++**
+- 🔭 I’m currently working on **html , css**
 - 📫 How to reach me **suave.prajapati@gmai.com**
 - ⚡ Fun fact **I'm Batman**
 -     we code </>
