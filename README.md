@@ -2,7 +2,7 @@
 
 ![Untitled design](https://github.com/SUAVEVAUS/SUAVEVAUS/blob/main/ezgif.com-resize.gif)
 - 🔭 I’m currently working on **html , css**
-- 📫 How to reach me **suave.prajapati@gmai.com**
+- 📫 How to reach me **suave.prajapati@gmail.com**
 - ⚡ Fun fact **I'm Batman**
 -     we code </>
 <h3 align="left">Connect with me:</h3>
